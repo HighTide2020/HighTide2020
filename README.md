@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicholas Cappello</h1>
 <h3 align="center">A Software Engineer From New Hampshire</h3>
 
-- 🔭 I’m currently working on **Lots of projects**
-
-- 🌱 I’m currently learning **Kubernetes**
-
 - 👯 I’m looking to collaborate on **Image processing**
 
 - 💬 Ask me about **All things JavaScript**
 
-- 📫 How to reach me **malware666@duck.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NzxrB1LxfqqZTz0bciyd0G3vnURuUSLhieL1ZQwciFY/edit?usp=sharing](https://docs.google.com/document/d/1NzxrB1LxfqqZTz0bciyd0G3vnURuUSLhieL1ZQwciFY/edit?usp=sharing)
-
-- ⚡ Fun fact **I Play lots of pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
