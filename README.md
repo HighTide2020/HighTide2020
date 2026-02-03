@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nicholas Cappello</h1>
+<h2 align="center"> Hello, I'm Nicholas Cappello a software engineer located in Manchester, NH. 👋 </h2>
 <!-- <h3 align="center">A Software Engineer From New Hampshire</h3>
 
 - 👯 I’m looking to collaborate on **Image processing**
 
-- 💬 Ask me about **All things JavaScript**
+- 💬 Ask me about **All things MircroServices**
 
 
 <h3 align="left">Connect with me:</h3>
